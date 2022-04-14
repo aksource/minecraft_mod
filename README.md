@@ -1,2 +1,2 @@
-# mod
-mod jar repository
+# minecraft mod
+minecraft mod jar repository
